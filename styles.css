@@ -1,0 +1,36 @@
+body{background-image: url(https://i.im.ge/2024/03/02/81XpDm.gudi.jpg);
+padding:20px;
+font-family:sans-serif;}
+.menu{background-color:brown;
+width:80%;
+margin-left:auto;
+margin-right: auto;
+padding: 20px;}
+h1{font-size: 40px;}
+p{font-size: 30px;}
+.established{font-style:oblique;}
+.items p{display:inline-block;
+margin-top:5px;
+margin-bottom: 5px;
+font-size:20px;}
+h1, h2, p{text-align:center;}
+.style, .print{width:75%;
+text-align:left;}
+.price{width:25%;
+text-align:right;}
+hr{height:2px;
+background-color:black;
+border-color: bisque;}
+.bottom-line{margin-top: 25px;
+    margin-bottom: 5px;
+height:2px;
+border-color: bisque;
+background-color: black;}
+footer{font-size:14px;}
+a{color: bisque;}
+a:visited{color: black;}
+a:hover{color: aqua;}
+a:active{color:white}
+h1, h2 {
+    font-family: Impact, serif;
+  }
